@@ -1,0 +1,1 @@
+I think that my favorite class has been a creative fiction class that I took in my Freshman year of college. The professor did a great job at explaining concepts present in fiction and everyone in the class was cool.
