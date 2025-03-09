@@ -1,0 +1,2 @@
+Reflection:
+I am most proud of my main page, and more specifically how it is organized. I really like the look of the images, even if they are messed up on other displays. I'm hoping I can find a way to fix that. I like the colors that I found for the website as well. I like how it's divided up, and I think with further development I can make it even more to my liking. Right now it looks a little bare, but in the future it will become more full. Right now I think I'm in a good spot and I'm excited to learn more features that I can add to my website!
