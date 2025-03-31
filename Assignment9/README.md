@@ -29,5 +29,5 @@
             <li><b>A magnetic screwdriver is useful if you have it, but it isn't necassery by any means.</b></li>
             <li><b>The PS5 cover can be a pain to put back. I found that I had to put quite a bit of force into getting it to clip back in.</b></li>
             <li><b>Make sure to keep track of the smaller screw and the spacer. The spacer is exceptionally prone to rolling away.</b></li>
-            <li><b>The SSD does require some force to fully connect, but as long as it is alligned correctly it should be ok.</b></li>
+            <li><b>The SSD does require some force to fully connect, but as long as it is alligned correctly it should be simple to install.</b></li>
         </ul>
