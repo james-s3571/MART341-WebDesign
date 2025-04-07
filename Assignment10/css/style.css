@@ -1,0 +1,64 @@
+body
+{
+    background-color: rgb(73, 93, 99);
+}
+
+#title
+{
+    font-weight: bold;
+    color: rgb(249, 87, 56);
+    font-size: xx-large;
+    text-align: center;
+}
+
+.centerquote
+{
+    position: relative;
+    width: 100%;
+}
+
+.firstimage
+{
+    width: 100%;
+    opacity: 0.5;
+}
+
+.quote
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    color: rgb(249, 87, 56);
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.lownav
+{
+bottom: 0;
+width: 100%;
+text-align: center;
+background-color: rgb(15, 95, 120);
+height: 50px;
+}
+
+.lownav ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.lownav li
+{
+    display: inline;
+    margin: 0 15px;
+}
+
+.lownav a
+{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: xx-large;
+}
