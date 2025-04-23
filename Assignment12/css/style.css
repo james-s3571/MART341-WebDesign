@@ -1,0 +1,99 @@
+h1{color: rgb(249, 87, 56); text-align: center;}
+
+h2{color: rgb(249, 87, 56);}
+
+body{background-color:rgb(73, 93, 99);}
+
+hr{border: 3px solid rgb(249, 87, 56); width: 90%;}
+
+table, th, td 
+    {
+        margin-right: auto;
+        margin-left: auto;
+        border: 3px solid black;
+        color: aliceblue;
+        text-align: left;
+    }
+
+    .nav
+    {
+    position: fixed;
+    top: 0;
+    width: 99.9%;
+    text-align: right;
+    background-color: rgb(56, 105, 120);
+    height: 36px;
+    margin-left: -6.9px;
+    }
+    
+    .nav ul
+    {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .nav li
+    {
+        display: inline;
+        margin: 0 .5em;
+    }
+    
+    .nav a
+    {
+        text-decoration: none;
+        font-weight: bold;
+        font-size: xx-large;
+    }
+
+    .nav a:hover
+        {
+        background-color: rgb(46, 122, 174);
+        }
+
+    .pacimage
+    {
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+        width: 50%; 
+        height: 50%;
+    }
+
+    .containerone
+    {
+        width: 28%;
+        height: 250px;
+        border: 2px solid black;
+        padding: 1em;
+        margin: 1em;
+        margin-left: 2em;
+        background-color: rgb(64, 123, 132);
+        float: left;
+        overflow: scroll;
+    }
+
+    .containertwo
+    {
+        float: left;
+        margin-right: auto;
+        margin-left: auto;
+        width: 28%;
+        height: 208px;
+        border: 2px solid black;
+        padding: 1em;
+        font-size: large;
+        background-color: rgb(64, 123, 132);
+    }
+
+    .containerthree
+    {
+        float: left;
+        width: 28%;
+        height: 208px;
+        border: 2px solid black;
+        padding: 1em;
+        margin: 1em;
+        font-size: large;
+        background-color: rgb(64, 123, 132); 
+    }
