@@ -37,3 +37,19 @@
     font-weight: normal;
     font-style: italic;
 }
+
+@font-face
+{
+    font-family: 'National Park';
+    src: url('../fonts/NationalPark-Regular.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face
+{
+    font-family: 'National Park';
+    src: url('../fonts/NationalPark-Bold.ttf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
