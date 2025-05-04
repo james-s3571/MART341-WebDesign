@@ -1,0 +1,3 @@
+Framework Integration: I implemented Foundation for the main page of my website. The Foundation website had a template for a news and magazine website and I downloaded it and changed it to fit in with the overall theme of my site. I am very happy with how it turned out, as it looks much cleaner than my original main page.
+Framework Styling Elements: I used this on the main page to keep all the elements in a coherent style.
+HTML5 Canvas & JavaScript Funcionality: I created a canvas to display a simple gradient. I didn't really know what to use it for or where to implement it, so I left it at that.
